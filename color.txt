@@ -1,0 +1,9 @@
+
+Primary	#2E2E2E	oklch(0.262 0.0001 0)	Charcoal gray – strong, neutral base
+Secondary	#F9F9F9	oklch(0.978 0.0001 0)	Soft white – clean and bright background
+Accent	#3B82F6	oklch(0.695 0.233 259.5)	Electric blue – vibrant and modern
+--background: oklch(0.978 0.0001 0); /* #F9F9F9 */
+
+
+Primary – Charcoal Gray #2E2E2E → Clean, neutral, and elegant. Great for text and structure. Secondary – Soft White #F9F9F9 → Brightens the layout without being harsh. Ideal for backgrounds. Accent – Electric Blue #3B82F6 → Sharp, modern, and eye-catching. Perfect for buttons, links, and highlights."
+--background: oklch(0.978 0.0001 0); /* #F9F9F9 */
