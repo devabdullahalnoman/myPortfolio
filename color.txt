@@ -7,3 +7,41 @@ Accent	#3B82F6	oklch(0.695 0.233 259.5)	Electric blue – vibrant and modern
 
 Primary – Charcoal Gray #2E2E2E → Clean, neutral, and elegant. Great for text and structure. Secondary – Soft White #F9F9F9 → Brightens the layout without being harsh. Ideal for backgrounds. Accent – Electric Blue #3B82F6 → Sharp, modern, and eye-catching. Perfect for buttons, links, and highlights."
 --background: oklch(0.978 0.0001 0); /* #F9F9F9 */
+
+// import React from "react";
+// import { useLottie } from "lottie-react";
+// import animation from "../Animation/aboutMe.json";
+
+// const AboutMe = () => {
+//   const options = {
+//     animationData: animation,
+//     loop: true,
+//   };
+
+//   const { View } = useLottie(options);
+
+//   return (
+//     <div className="py-20 bg-base-300" id="aboutMe">
+//       <h1 className="text-5xl text-center mb-6">Behind the Code</h1>
+//       <div className="flex flex-col-reverse lg:flex-row items-center gap-10 w-10/12 mx-auto">
+//         <div className="text-base-content text-lg lg:text-2xl leading-12 flex-1">
+//           <p>
+//             I’m Abdullah Al Noman, a MERN stack developer based in Bangladesh,
+//             passionate about building fast, scalable, and user-centric web
+//             applications. With a strong foundation in React, Node.js, and
+//             MongoDB, I specialize in crafting seamless digital experiences—from
+//             responsive frontends to secure, efficient backends. I thrive on
+//             turning complex ideas into clean, maintainable code that delivers
+//             real-world impact.
+//           </p>
+//         </div>
+//         <div className="flex-1">{View}</div>
+//       </div>
+//     </div>
+//   );
+// };
+
+// export default AboutMe;
+
+
+import React from "react";
